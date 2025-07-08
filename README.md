@@ -7,37 +7,7 @@
 </div>
 
 
-## 🛠️ The Mind Behind the Code
-```javascript
-class DeveloperProfile {
-    constructor() {
-        this.name = "Akshay";
-        this.level = 85;
-        this.exp = 50000;
-        this.class = "Full-Stack Wizard";
-        this.location = "🌍 Kannur, Kerala, India, South Asia, Asia, Earth, Solar System, Orion Arm, Milky Way Galaxy, Local Group, Virgo Supercluster, Observable Universe";
-        this.guild = "Cloud & Data Engineering";
-        this.specialAbilities = [
-            "🔮 Frontend Magic",
-            "⚡ Backend Lightning",
-            "☁️ Cloud Mastery",
-            "📊 Data Alchemy"
-        ];
-        this.currentQuest = "Building the future, one commit at a time";
-        this.achievements = ["🏆 Code Warrior", "🎯 Bug Hunter", "🚀 Deploy Master"];
-    }
-    
-    castSpell(technology) {
-        return `✨ ${technology} spell successfully cast!`;
-    }
-}
 
-const developer = new DeveloperProfile();
-console.log(developer.castSpell("React + Node.js"));
-// Output: ✨ React + Node.js spell successfully cast!
-```
-
----
 ## 🌱 **Growth Path: Git Snake Chronicles**<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
