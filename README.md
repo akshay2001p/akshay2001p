@@ -2,13 +2,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Fullstack+Developer;☁️+Cloud+Architect;📊+Data+Engineer;🤖+AI+Enthusiast;🎯+Problem+Solver;💡+Innovation+Creator" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 </div>
